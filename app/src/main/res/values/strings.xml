@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">CreateMessageActivity</string>
+    <string name="app_name">3TORStudio Message</string>
+    <string name="button_msg">Wyślij wiadomość</string>
+    <string name="edit_tekst_msg">Msg: </string>
 </resources>
